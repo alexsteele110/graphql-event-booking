@@ -1,7 +1,8 @@
 .events__list-item {
   margin: 1rem auto;
   padding: 1rem;
-  border: 1px solid blueviolet;
+  border: 1px solid #ccc;
+  border-radius: 4px;
   display: flex;
   justify-content: space-between;
   align-items: center;
